@@ -1,1 +1,1 @@
-# Understanding_TypeScript_Maximilian_Schwarzmuller_-Udemy_course_material-
+# Understanding TypeScript - Maximilian Schwarzmuller (Udemy course material)
